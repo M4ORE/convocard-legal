@@ -1,21 +1,21 @@
 # ConvoCard Legal Documents
 
-This repository contains legal documents for the ConvoCard app.
+This repository contains the landing page and legal documents for the ConvoCard app.
 
-## Documents
+## Pages
 
-| Document | English | 繁體中文 |
-|----------|---------|----------|
-| Privacy Policy | [View](privacy_policy_en.html) | [View](privacy_policy_zh.html) |
+| Page | Description |
+|------|-------------|
+| [Landing Page](index.html) | Convo Card 產品介紹頁（中/英雙語切換） |
+| [Privacy Policy](privacy.html) | 隱私權政策（中/英雙語切換） |
 
 ## GitHub Pages
 
 This repository is configured to serve pages via GitHub Pages.
 
 **Live URLs:**
-- Landing: `https://<username>.github.io/convocard-legal/`
-- Privacy (EN): `https://<username>.github.io/convocard-legal/privacy_policy_en.html`
-- Privacy (ZH): `https://<username>.github.io/convocard-legal/privacy_policy_zh.html`
+- Landing Page: `https://<username>.github.io/convocard-legal/`
+- Privacy Policy: `https://<username>.github.io/convocard-legal/privacy.html`
 
 ## Setup
 
